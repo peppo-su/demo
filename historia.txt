@@ -1,18 +1,14 @@
 Esta es la historia de rafael
-o de yoberlopez.
-estoy perdido
-de nuevo
-otra vez
+o de yoberlopez.estoy perdido
+de nuevo,otra vez
 
 puedo escribir??
 yoberlopez o Yober Lopez??
 
-I'M peppo-s
-peppo su.
+I'M peppo-s, peppo su.
 en github. rafael??
 
---llamar 
-
-ssh-add lenovo-windows
-
+--llamar ssh-add lenovo-windows
 try?
+
+estoy en la rama main.
