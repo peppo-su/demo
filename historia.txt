@@ -8,10 +8,7 @@ yoberlopez o Yober Lopez??
 I'M peppo-s, peppo su.
 en github. rafael??
 
---llamar ssh-add lenovo-windows
-try?
-
 estoy en la rama main.
-
-
 ultimo parrafo para hacer un merge
+estoy en la rama borrar. hello!!!
+voy a fusionar a main.
